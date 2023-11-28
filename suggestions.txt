@@ -1,0 +1,7 @@
+-Do you like classic music? [y/n]
+-Are you a fan of Mozart? [y/n]
+Eine Kleine Nachtmusik
+"3 Romances" by Clara Schumann
+-Do you dislike jazz?
+"Easy On Me" by Adele
+"Take Five" by Dave Brubeck
